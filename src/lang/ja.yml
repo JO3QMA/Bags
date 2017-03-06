@@ -1,0 +1,20 @@
+not_allowed: '&4この操作は許可されていません!'
+bag: バックパック
+bag_big: ビックバックパック
+bag_enc: エンチャントバックパック
+bag_craft: クラフティングバックパック
+bag_ender: エンダーバックパック
+bag_anvil: 金床バックパック
+bag_inventory: バックパック
+bag_credits1: '&6benfah | このプラグインの作成者 :3'
+bag_credits2: '&6Halbzwilling | テクスチャトリックの発見者 :3'
+bag_credits3: '&6Eydamos | 思いついた人 :3'
+bag_give_syntax: '&4構文: /bags give <normal:big:craft:enchant:ender:anvil>'
+bag_cmdhelp1: '&6/bags credits | プラグインのクレジット情報を表示します :3'
+bag_cmdhelp2: '&6/bags resource | リソースパック取得リクエストを送信します。'
+bag_cmdhelp3: '&6/bags give <Bag> [Player] | 指定したバックパックを与えます。'
+bag_cmdhelp4: '&6/bags edit <BagID> | 指定したIDのバックパックを編集します。'
+p_not_found: '&cプレイヤーが見つかりません!'
+click_here: '&6ここをクリックしてください'
+update_found: '&eBagsのアップデートが見つかりました!'
+click_here: '&6ここをクリックしてください'
